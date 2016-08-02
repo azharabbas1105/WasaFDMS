@@ -14,8 +14,6 @@ import org.apache.http.util.EntityUtils;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.util.List;
-
-
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;

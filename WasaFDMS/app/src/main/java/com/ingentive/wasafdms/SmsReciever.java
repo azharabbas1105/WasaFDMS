@@ -14,7 +14,6 @@ import android.telephony.SmsManager;
 import android.telephony.SmsMessage;
 import android.util.Log;
 import android.widget.Toast;
-
 import com.activeandroid.query.Delete;
 import com.activeandroid.query.Select;
 import com.ingentive.wasafdms.activeandroid.SmsTable;
