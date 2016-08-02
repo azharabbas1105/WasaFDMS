@@ -1,2 +1,6 @@
 # WasaFDMS
+<<<<<<< HEAD
 old_repo
+=======
+new repo
+>>>>>>> bf2d86424f3900ae209efa415f5a8f7c25550739
